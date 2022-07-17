@@ -27,7 +27,7 @@ SECRET_KEY = 'cisco'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['agile-ocean-32203.herokuapp.com','127.0.0.1']
 
 
 # Application definition
